@@ -13,6 +13,9 @@ body {
     height: 40em;
     position: relative;
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
    }
    .sun {
     position: absolute;
