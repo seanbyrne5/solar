@@ -12,6 +12,7 @@ body {
     width: 40em;
     height: 40em;
     position: relative;
+    margin: 0 auto;
    }
    .sun {
     position: absolute;
